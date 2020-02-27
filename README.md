@@ -1,2 +1,3 @@
 # HelloWorld
-You know what it is
+
+This is a simple project that will output the text "hellp world" to the screen.
